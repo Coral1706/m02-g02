@@ -1,0 +1,145 @@
+Body {background-color: pink; width: 100vw}
+
+.cajaA {margin-left: 50px;}
+
+
+
+
+.cajaB {margin-left: 50px;}
+
+
+
+.caja {background-color: white; 
+	width: 560px; 
+	height: 387px; 
+    margin-left: 50px; 
+    margin-top:20px ;
+    display: inline-block;}
+
+.franja1 {background-color: #0038A8; 
+	width: 340px; 
+	height: 43px;
+	margin-top: 43px;
+	margin-left:220px ;}
+	
+.franja2 {background-color: #0038A8; 
+	width: 340px; 
+	height: 43px;
+	margin-top: 43px;
+	margin-left:220px ;}
+	
+.franja3 {background-color: #0038A8; 
+	width: 560px; 
+	height: 43px;
+	margin-top: 43px;}
+
+.franja4 {background-color: #0038A8; 
+	width: 560px; 
+	height: 43px;
+	margin-top: 43px;}
+
+.Sol {position: absolute;
+width: 157px;
+height: 157px;
+margin-left: 30px;
+margin-top: 30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+.caja2 {background-color: #fe0000;
+width:560px;
+height:387px;
+margin-top: 20px;
+margin-left: 50px;
+margin-right: 100px;
+display: inline-block;}
+
+.estrella {position: absolute;
+width: 190px;
+height: 157px;
+margin-left: 40px;
+margin-top: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+.caja4 {background-color: #ffffff;
+width:560px;
+height:387px;
+margin-top: 20px;
+margin-left: 50px;
+margin-right: 100px;
+display: inline-block;}
+
+.franja5 {background-color: #142f9b; 
+	width: 200px; 
+	height: 193px;
+	margin-top: 0px;
+	margin-left:0px ;}
+
+.franja6 {background-color: #d61818; 
+	width: 560px; 
+	height: 194px;
+	margin-top: 0px;
+	margin-left:0px ;}
+
+.Estrella {position: absolute;
+width: 120px;
+height: 120px;
+margin-left: 37px;
+margin-top: 37px;}
+
+
+
+
+
+
+
+.caja5 {background-color: #fabd00;
+
+width: 560px; 
+height: 387px;
+margin-left: -50px;
+margin-top: 20px;
+position: absolute;
+display: inline-block;}
+
+
+.franja7 {background-color: #ad1519; 
+	width: 560px; 
+	height: 129px;
+	margin-top: 0px;
+	margin-left:0px ;}
+
+.franja8 {background-color: #ad1519; 
+	width: 560px; 
+	height: 129px;
+	margin-top: 129px;
+	margin-left:0px ;}
+
+.escudo {position: absolute;
+width: 110px;
+height: 110px;
+margin-left: 110px;
+margin-top: 135px;}
+
+
+.caja10 {margin-left: 50px;
+margin-top: 70px;}
